@@ -17,6 +17,8 @@ Put `Camera` button into deck.
 $ make install
 ```
 
+Then restart StreamDeck Application.
+
 ## License
 
 MIT
