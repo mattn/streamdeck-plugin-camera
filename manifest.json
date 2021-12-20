@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Name": "Camera",
+      "States": [
+        {
+          "TitleAlignment": "middle",
+          "FontSize": "14"
+        }
+      ],
+      "PropertyInspectorPath": "camera_property_inspector.html",
+      "SupportedInMultiActions": false,
+      "Tooltip": "Camera",
+      "UUID": "io.github.mattn.streamdeck.camera"
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "Yasuhiro Matsumoto",
+  "CodePath": "camera.exe",
+  "Description": "Camera",
+  "Name": "camera",
+  "URL": "https://mattn.github.io",
+  "Version": "0.0.1",
+  "OS": [
+    {
+        "Platform": "mac",
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows",
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software":
+    {
+        "MinimumVersion" : "4.1"
+    }
+}
