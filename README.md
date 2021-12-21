@@ -2,6 +2,8 @@
 
 StreamDeck Plugin that display your face in LED button.
 
+![](https://raw.githubusercontent.com/mattn/streamdeck-plugin-camera/main/screenshot.png)
+
 ## Usage
 
 Put `Camera` button into deck.
